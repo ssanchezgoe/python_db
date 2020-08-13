@@ -98,3 +98,5 @@ Tip: If you want to use a different filename than app.py, such as program.py, de
 6. Creación de plantillas múltiples que extiendan una plantilla base
 
 7. Actividades Opcionales
+
+8. Para borrar.
